@@ -1,0 +1,4026 @@
+[
+    {
+        "site": "https://www.coursera.org/specializations/data-structures-algorithms",
+        "score": 17
+    },
+    {
+        "site": "https://www.coursera.org/specializations/algorithms",
+        "score": 14
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-mining",
+        "score": 14
+    },
+    {
+        "site": "https://www.coursera.org/specializations/boulder-data-structures-algorithms",
+        "score": 13
+    },
+    {
+        "site": "https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science",
+        "score": 13
+    },
+    {
+        "site": "https://www.coursera.org/specializations/jhu-data-science",
+        "score": 13
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-science-statistics-machine-learning",
+        "score": 13
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/ibm-machine-learning",
+        "score": 12
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-probability-and-statistics",
+        "score": 12
+    },
+    {
+        "site": "https://www.coursera.org/specializations/object-oriented-programming",
+        "score": 12
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/fractal-data-science",
+        "score": 12
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-analysis-python",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/specializations/java-programming",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ibm-intro-machine-learning",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/certified-artificial-intelligence-practitioner",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-science-python",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/google-advanced-data-analytics",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/projects/simple-nearest-neighbors-regression-and-classification",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/specializations/genomic-data-science",
+        "score": 11
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-searching-sorting-indexing",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/cs-fundamentals",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-structures",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning-algorithms-real-world",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/learn/trees-graphs-basics",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/ibm-data-science",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/java-object-oriented",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/investment-management-python-machine-learning",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/scala",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-analysis",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/analytics",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/ibm-data-engineer",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/meta-back-end-developer",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/certifiedblockchainsecurityprofessionalexamprepspecialization",
+        "score": 10
+    },
+    {
+        "site": "https://www.coursera.org/specializations/computer-fundamentals",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/learn/spjimr-data-analysis-mooc",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/learn/cluster-analysis",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/learn/text-mining",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/specializations/natural-language-processing",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/specializations/exam-prep-mls-c01-aws-certified-machine-learning-specialty",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/specializations/financialtechnology",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/specializations/mastering-power-bi-data-analytics-storytelling",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/specializations/datascienceformarketing",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-datadog-getting-started-with-the-helm-chart-10c7n",
+        "score": 9
+    },
+    {
+        "site": "https://www.coursera.org/learn/dynamic-programming-greedy-algorithms",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ethics-in-ai",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/algorithms-for-battery-management-systems",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-mining-project",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/clustering-analysis",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-science",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/accounting-data-analytics",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-clustering-and-retrieval",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-classification",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/projects/scikit-learn-for-machine-learning-classification-problems",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/esg-investing-financial-decision-in-flux",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/projects/scikit-learn-to-solve-regression-ml-problems",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/applied-data-science",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/classification-vector-spaces-in-nlp",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/artificial-intelligence-scientific-research",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/digital-strategy",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/regression--forecasting-for-data-scientists-using-python",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning-supply-chain",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/python",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/vital-skills-for-data-science",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/hands-on-data-science-machine-learning",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/rpa-cognitive-analytics",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/statistical-learning-for-data-science",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/meta-database-engineer",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-analytics-business",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/certified-ethical-emerging-technologist",
+        "score": 8
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-divide-conquer",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/practical-machine-learning",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/dna-sequencing",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/scala-parallel-programming",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/build-regression-classification-clustering-models",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-mining-foundations-practice",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithmic-solutions-design-problem-solving-reporting",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-data-structures",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/bioinformatics",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/decentralized-finance-duke",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/crypto-finance",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-accounting-python",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/clin-decision-deep-learning",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-marketing",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/supervised-machine-learning-classification",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/supervised-machine-learning-regression",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-genes-medicine",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/deep-learning",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/ibm-ai-product-manager",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning-trading",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/google-advanced-data-analytics-capstone",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/azure-data-scientist",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/large-language-model-operations",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/tensorflow-advanced-techniques",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/understanding-data-navigating-statistics-science-ai",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/mlops-machine-learning-duke",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/predictive-modeling-analytics",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/projects/scikit-learn-simple-linear-regression",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/bayesian-statistics",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/text-marketing-analytics",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/sas-statistical-business-analyst",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/introduction-data-science",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ai-for-good",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/entrepreneurial-finance",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/specializations/cloud-computing",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/meta-ios-developer",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/rpa-introduction",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/meta-android-developer",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/codio-intro-to-operating-systems-1-virtualization",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-warehousing-business-intelligence",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-gke-autopilot-qwik-start-nu5ep",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-getting-started-with-mongodb-atlas-on-google-cloud-mwbdc",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-managing-a-gke-multi-tenant-cluster-with-namespaces-kej1g",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/projects/process-map-data-using-cpp-adjacency-list-shortest-path",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/projects/cnns-with-tensorflow-basics-of-machine-learning",
+        "score": 7
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-npcomplete",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/mathematics-machine-learning",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/unsupervised-algorithms-in-machine-learning",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/build-decision-trees-svms-neural-networks",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/coding-for-everyone",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-data-analysis",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/bioinformatics",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/seo",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/digital-signal-processing",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/recommender-systems",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/dna-analysis",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/embedding-sensors-motors",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-sports-analytics",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/java-fullstack",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/big-o-time-complexity-in-python-code",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/getting-started-with-machine-learning-at-the-edge-on-arm",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/remote-sensing",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/comparing-genomes",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-under-the-hood",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/core-java-course",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-analysis-with-python",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-patterns",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/real-time-systems",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/python-data-products-for-predictive-analytics",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ai-for-medicine",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-machine-learning",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/custom-distributed-training-with-tensorflow",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning-for-everyone",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-capstone",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/executive-data-science",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/practical-data-science-matlab",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-pipelines-tensorflow",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/embedded-systems-security",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/support-vector-machines-scikit-learn",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/life-expectancy-prediction-using-machine-learning",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-for-professionals",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/beginning-application-developer",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/analyze-data-plotly-python",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/sports-analytics",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/exploratory-data-analysis-seaborn",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/robotics",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/predict-ideal-diamonds-with-a-random-forest-using-r",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/tensorflow2-deeplearning",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/esg-data-and-accountability",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/certified-data-science-practitioner",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/regression-and-classification",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/showcase-forecast-bikeshare-demand-using-time-series-models-in-r",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/tensorflow-data-and-deployment",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/specializations/c-programming-linux",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/text-classification-in-r",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-installing-anthos-service-mesh-on-google-kubernetes-engine-aycy1",
+        "score": 6
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-graphs-data-structures",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/principles-of-computing-2",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithmic-thinking-1",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-structures-optimizing-performance",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-models-in-science",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/discrete-mathematics",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/probabilistic-graphical-models-3-learning",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/crypto",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-algorithms",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/computational-thinking-block-programming-k12-education",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/artificial-intelligence-essentials",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/splunk-search-expert-103",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-mining-theory-practice-project",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/computational-thinking-problem-solving",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/classification-analysis",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-regression",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/probabilistic-graphical-models",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning-reinforcement-finance",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/mathworks-computer-vision-engineer",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/cameraandimaging",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/cdss1",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-ethics",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/analytics-information",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/intelligent-digital-factories",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-machine-learning",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/linear-algebra-basics",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/justice-and-equity-in-technology-policy",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/features-and-boundaries",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/learn-binary-search-in-javascript",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/decentralized-finance-deep-dive-duke",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/battery-pack-balancing-power-estimation",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/foundations-of-advanced-wireless-communication",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/blockchain-and-cryptography-overview",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/machine-learning-tensorflow-gcp",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ai-healthcare",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/time-series-survival-analysis",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/java-programming-arrays-lists-data",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-for-medical-treatment",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/text-generation-markov-chains-python",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/generative-adversarial-networks-gans",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-applications",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/search-engine-optimization",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/rust-llmops",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-and-scikit-learn-in-python",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/build-ai-apps-with-chatgpt-dalle-gpt4",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/visual-basic-computer-programming",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/scikit-learn-logistic-regression-sentiment-analysis",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/cervical-cancer-risk-prediction-using-machine-learning",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/matlab-programming-engineers-scientists",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/predictive-modelling-azure-machine-learning-studio",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/sentiment-analysis-bert",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/dplyr",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-with-pyspark-customer-churn-analysis",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/power-bi-for-data-science-and-analytics",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/rust-programming",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/data-science-challenge",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/graduate-admission-prediction-with-pyspark-ml",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/follow-machine-learning-workflow",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/data-science-coding-challenge-loan-default-prediction",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/four-rare-machine-learning-skills-all-data-scientists-need",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/decoding-ai-deep-dive-ai-models-predictions",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/aws-generative-ai-for-beginners",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/ml-parameters-optimization-gridsearch-bayesian-random",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/datascimed",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/specializations/developing-industrial-iot",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/showcase-build-and-deploy-a-stroke-prediction-model-with-r",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/genai-for-data-scientists",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-measuring-and-improving-speech-accuracy-flfgy",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/tensorflow-prediction-penguin-species",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/c-programming-getting-started",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/projects/ml-basics-kaggle-competition",
+        "score": 5
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-on-graphs",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-part2",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-on-strings",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-greedy",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-part1",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/operations-research-algorithms",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/linear-programming-and-approximation-algorithms",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/discrete-optimization",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-algorithm-limitations",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/c-plus-plus-a",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-algorithms-r-business-analytics",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/sorting-tax-data-using-efficient-sorting-algorithms-in-java",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/robotics-motion-planning",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-machine-learning-algorithms",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/basic-modeling",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/search-engine",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-mining-methods",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/optimization-for-decision-making",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/cloud-computing",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/deep-neural-network",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/ai-engineer",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-unsupervised-machine-learning",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/complete-reinforcement-learning-system",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/sample-based-learning-methods",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/coding-interview-preparation",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/introduction-to-basic-game-development-using-scratch",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/problem-solving-programming-video-games",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/fundamentals-of-reinforcement-learning",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-for-customer-segmentation",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/assembling-genomes",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/telecom-customer-churn-prediction",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/support-vector-machine-classification-python",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-science-fundamentals",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/prediction-control-function-approximation",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-tools-for-digital-marketing-analytics",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/attract-and-engage-customers",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/robotic-path-planning-task-execution",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/used-car-price-prediction-using-machine-learning-models",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/recommender-systems-ml",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/predict-ad-clicks-using-logistic-regression-and-xg-boost",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/intro-computer-vision",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/combinatorics",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/unsupervised-text-classification-for-marketing-analytics",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/cluster-analysis-techniques",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/boggle-python-recursion",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/fundamentals-of-java-programming",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/python-basics-guess-the-number",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/load-flow-analysis",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-machine-learning-for-investment-management",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/supervised-learning-and-its-applications-in-marketing",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/nlp-sequence-models",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-data",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/decentralized-finance-primitives-duke",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-course",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/reinforcement-learning",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ai-product-management-duke",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/the-road-to-autonomy-exploring-ev-technologies",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/unsupervised-learning-and-its-applications-in-marketing",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-ethics-analysis",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-for-business-innovation",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/computer-vision-introduction",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/generative-deep-learning-with-tensorflow",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/laravel-protections",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/introduction-robotics-webots",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-streamlit-python",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-methodology",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/generative-ai-for-everyone",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/learn-to-code-with-ai",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/learn-generative-ai-with-llms",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-mlops-duke",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/computer-vision",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/employee-turnover-scikit-learn",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/pcdp",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/azure-machine-learning-studio-random-forests",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-fundamentals-for-data-analysts",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/demand-prediction-using-time-series",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/introduction-to-rag",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/scikit-learn-multiple-linear-regression",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-university-admission",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/support-vector-machines-in-python",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/mining-quality-prediction",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/azure-machine-learning-studio-pipeline",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/resume-selector-using-naive-bayes",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/basic-sentiment-analysis-tensorflow",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/intro-cyber-security",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/decision-tree-classifier-for-beginners-in-r",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/predictive-analytics",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/sscp-training",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/bitcoin-price-prediction-using-facebook-prophet",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/loan-approval-prediction-using-neural-networks",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/recommender-systems-introduction",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/mcmc-bayesian-statistics",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-ai-techniques-for-the-supply-chain",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/device-based-models-tensorflow",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/matlab-capstone",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/instagram-fake-profile-detector",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/clustering-world-happiness-report",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/covid-19-cases-forecasting-using-fbp",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/pycaret-regression",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-for-kyphosis-disease-classification",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/us-household-income-bracket-classification",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/ethical-frameworks-action",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/neural-network-tensorflow",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/tidymodels-in-r-building-tidy-machine-learning-models",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/automl-using-autogluon",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/solving-ml-regression-problem-with-aws-autogluon",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/projects/machinedeep-learning-for-mining-quality-prediction-enhanced",
+        "score": 4
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-algorithms-and-complexity",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithmic-toolbox",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-learning-algorithms",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/operations-research-modeling",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/gpu-programming",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/operations-research-theory",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/linear-algebra-machine-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/principles-of-computing-1",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/linear-algebra-data-science-python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/train-machine-learning-models",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/big-data-business-intelligence",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/foundations-of-machine-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/complexity",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/what-is-a-proof",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-with-python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/understand-big-o-notation-in-python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/convolutional-neural-networks",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-foundations-for-product-managers",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/it-security",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/java-programming",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/scala-spark-big-data",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/seo-fundamentals",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/natural-language-processing-tensorflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-infrastructure-operations-fundamentals",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/image-processing",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-calculus",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/linear-regression-numpy-python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/generative-ai-with-llms",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/object-oriented-java",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/cs-programming-java",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/keras-tuner",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/anomaly-detection",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/artificial-intelligence-overview",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/regression-automatic-differentiation-tensorflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/cybersecurity-threat-vectors-and-mitigation",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/logistic-regression-numpy-python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/deep-learning-fundamentals-logistic-regression",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/object-oriented-programming-s12n",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/employee-attrition-prediction",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/business-analytics-r",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/scala2-spark-big-data",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-technology-assisted-decision-making",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-rapid-prototyping-watson-studio-autoai",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/visualizing-filters-cnn-tensorflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-model-deployment",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/entrepreneurs-blockchain-technology",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/sagemaker-tensorflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/computing-ethics-society",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-and-nlp-basics",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/scala2-parallel-programming",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/develop-clustering-models-microsoft-azure-ml-designer",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/applied-data-science-capstone",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-vr-nlp",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/supervised-text-classification-for-marketing-analytics",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-generative-ai",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/association-rules-analysis",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/superhero-tensorflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/neural-networks-deep-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/learn-to-program",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/robot-localization-python-particle-filter",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scientist",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/tensorflow-in-practice",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/use-java-apis-to-sort-and-search-a-collection-of-data",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/prepare-for-dp-100-design-a-data-science-solution-on-azure",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ai-foundations-for-everyone",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/artificial-intelligence-education-for-teachers",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/intro-programming",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/mastering-multithreading-with-go",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/microsoft-ai-900-exam-prep",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/interactive-python-1",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/battery-state-of-health",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ibm-ai-foundations-for-business",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/cloud-computing-law",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/powering-the-drive-unveiling-ev-electronics",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/the-power-of-machine-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/audio-signal-processing",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/principles-ethical-considerations-responsible-ai",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/apply-generative-adversarial-networks-gans",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-with-apache-spark",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/concurrent-programming-in-java",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/generative-ai-ethical-considerations-and-implications",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/packt-cryptography-learn-public-key-infrastructure-from-scratch-mbsj1",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/tracking-objects-video-particle-filter",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/big-data",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/text-retrieval",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/autodesk-cad-cam-manufacturing",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/solve-problems-ai-machine-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ai-for-business-wharton",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/build-and-operate-machine-learning-solutions-with-azure",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/intro-gen-ai",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/java-primitive-types-to-calculate-expenses",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/application-programming-fundamentals",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/dimensionality-reduction-autoencoder-python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/devops-dataops-mlops-duke",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/vector-database-projects-ai-recommendation-systems",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/java-programming-recommender",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/twitter-sentiment-analysis",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-with-chatgpt-image-classification-model",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/deploying-machine-learning-models",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/prophet-timeseries-prediction",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/linear-regression",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/tesla-stock-price-prediction-facebook-prophet",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/language-classification",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/automatic-machine-learning-h2o-automl-python",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/covid-19-detection-x-ray",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/rudi-hinds-github-copilot-for-beginners-write-software-with-ai",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/interactive-dashboards-plotly-dash",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/nlp-fake-news-detector",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/medical-insurance-premium-prediction-with-machine-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/launching-machine-learning-leadership",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/rudi-hinds-prompt-engineering-with-chatgpt-api-generate-exam-questions",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/autoencoders-image-denoising",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/business-implications-ai-nano-course",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/data-visualization-plotly-express",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-trading-finance",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-ai-workflow-data-analysis-hypothesis-testing",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/scene-classification-gradcam",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/ibm-ai-workflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/transfer-learning-food-classification",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/statistical-data-visualization-seaborn-ust",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/sequence-models-in-nlp",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-ai-workflow-ai-production",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/trading-strategy",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/nlp-english-to-french-translation",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/fashion-classification-with-deep-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/launching-machine-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/tensorflow-beginner-basic-image-classification",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/tensorflow-beginner-predicting-house-prices-regression",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/intro-tensorflow",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-asset-management-alternative-data",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/facial-key-point-detection",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-ai-ladder-framework",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/predict-numbers-from-handwritten-digits-neuralnetwork",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/build-clustering-model-using-pycaret",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/deep-learning-image-classifier-r",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/build-analyze-linear-regression-model-r",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/retinopathy-detection-using-deep-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/traffic-sign-classification-deep-learning",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-in-retail",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/neural-network-visualizer",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/projects/diabetes-disease-detection-with-xg-boost-and-neural-networks",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/specializations/emarketing",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/northeastern-data-privacy",
+        "score": 3
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithmic-thinking-2",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/c-programming",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-duke",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/trading-algorithm",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/google-machine-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-manipulation",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithmic-fairness",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/introduction-computer-science-programming",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/fpga-sdaccel-practice",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/cuda-advanced-libraries",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/computer-science-foundations",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-essentials",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-vertex-ai",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/programming-fundamentals",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/compthinking",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-processing-and-manipulation",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/convolutional-neural-networks-tensorflow",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/computational-neuroscience",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/genome-sequencing",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-for-medical-diagnosis",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-programming-fundamentals",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/introduction-applied-cryptography",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/uva-darden-artificial-intelligence-marketing",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-introduction-for-everyone",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/basic-game-development-with-levels-using-scratch",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/pca-machine-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-privacy-and-convenience",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/3d-modeling-rhinoscript",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/deep-learning-reinforcement-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/developing-ai-applications-azure",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/number-theory-cryptography",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-deep-learning-boulder",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/tweet-emotion-tensorflow",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/image-classification-sagemaker",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/cplusplus-crypto-iii",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/basic-robotic-behaviors-and-odometry",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-data-bias",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-teaching-ai",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ios-app-design-development",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/generative-ai-elevate-software-development-career",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/iot-communications",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/hyperparameter-tuning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/computer-vision-basics",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/principal-component-analysis-numpy",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ethical-issues-in-ai-and-professional-ethics",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/nand2tetris2",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-for-decision-makers",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/programming-languages",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/everyday-excel-projects",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/chatgpt-dall-e-scifi-writing",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-engineering-rust",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/go-programming-everyone-part-1",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-ai",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-k-means-clustering-python",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/avoiding-ai-harm",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-for-medical-prognosis",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/cloud-applications-part2",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-text-mining",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/3d-reconstruction---single-viewpoint",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/how-diffusion-models-work-project",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/multivariate-calculus-machine-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/decentralized-finance-infrastructure-duke",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-computer-vision-watson-opencv",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-enhanced-content-creationelevate-copywriting-with-humata",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/perception",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/microsoft-azure-machine-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/designing-autonomous-ai",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/equivalent-circuit-cell-model-simulation",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/key-technologies-for-business",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-on-aws",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/industrial-applications-of-ai",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/programming-in-python",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/deep-learning-business",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/invest-tech",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/cloud-computing-law-transactions",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/parallel-programming-in-java",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/mastering-ev-cooling-advanced-thermal-management",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/program-code",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ethical-issues-data-science",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/recognizing-shapes-images-opencv",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-for-drug-discovery",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/computer-vision-microsoft-azure",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/gcp-big-data-ml-fundamentals",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/computing-ethics-and-society-foundations",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/probabilistic-models-in-nlp",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/supermarket-system-python",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/snowflake-intro-app-developers-data-scientists-data-engineers",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ace-the-computer-science-interview-strategies-for-success",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/virtual-book-store-using-java-basics",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-ethics-business",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/nlp-microsoft-azure",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ethical-issues-computing-applications",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/preprocessing-unstructured-data-for-llm-applications",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-computer-vision",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-cad-cam-practical-cnc-machining",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/getting-started-with-mistral",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-for-everyone",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-h2o-flow",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-science-project",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/gcp-data-machine-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/exploring-ai-possibilities",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/build-your-first-machine-learning-pipeline-using-dataiku-tool",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/blockchain",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-vertex-pipelines-qwik-start-cqsni",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-for-supply-chain-fundamentals",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-and-disaster-management",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/simple-linear-regression-for-the-absolute-beginner",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/customer-segmentation-python",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/digital-manufacturing-design",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/databricks-to-local-llms",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/quantization-in-depth",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/microsoft-azure-management-security",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/rust-axum-greedy-coin-microservice",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-ai-platform-qwik-start-8jbdr",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/diabetes-prediction-with-pyspark-mllib",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/multilayer-perceptron-model-keras",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/java-beginners-loops--arrays",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-safety-stock",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/breast-cancer-prediction-using-machine-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/tensorflow-regularization-avoid-overfitting",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/topic-modeling-using-pycaret",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/save-load-export-keras-models",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/llamafile",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/custom-prediction-routine-google-ai-platform",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/snowflake-for-data-science-intro-to-snowpark-ml-for-python",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/transfer-learning-nlp-tensorflow-hub",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/gcp-data-engineering",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/machine-learning-with-databricks",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/image-understanding-tensorflow-gcp",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/linear-regression-predicting-salaries",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/front-end-development-using-react-specialization",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/facial-expression-classification",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/cifar-10-image-classification",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/amazon-echo-reviews-sentiment-nlp",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/rudi-hinds-ai-web-scraping-with-gpt-translating-foreign-news-headlines",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/simple-recurrent-neural-network-keras",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-identify-damaged-car-parts-with-vertex-automl-vision-bugvm",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/interactive-word2vec",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/titanic-survival-prediction-using-machine-learning",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-classify-images-of-cats-and-dogs-using-transfer-learning-6qgew",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-designing-data-lakes-in-aws",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/perform-data-science-with-azure-databricks",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-using-the-natural-language-api-from-google-docs-03efz",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/neural-style-transfer",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/image-classification-with-aws-autogluon",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/using-r-for-regression-and-machine-learning-in-investment",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/tensorflow-for-ai-applying-image-convolution",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-generative-ai-for-software-development",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/carbon-aware-computing-for-genai-developers",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/specializations/digital-manufacturing-design-technology",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/projects/rudi-hinds-ai-code-faster-with-tabnine-optimise-a-nextjs-application",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/team-software-engineering-with-ai",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-powered-software-and-system-design",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/generative-ai-for-software-development",
+        "score": 2
+    },
+    {
+        "site": "https://www.coursera.org/learn/c-plus-plus-b",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/cryptography",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/vlsi-cad-logic",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/cloud-computing-2",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-tensorflow",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/interactive-computer-graphics",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/big-data-machine-learning",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-embedded-machine-learning",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-foundations",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/specializations/applied-crypto",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-driven-astronomy",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-linear-algebra",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/probabilistic-graphical-models-2-inference",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/evaluating-and-debugging-generative-ai-project",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-machine-learning-supervised-learning",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-engineering-in-aws",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/cs-tech-interview",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/java-programming-design-principles",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/decryption-with-python",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-analysis-python-project",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/mlops-aws-azure-duke",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/build-a-computer",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/semantic-segmentation-sagemaker",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/multi-task-models-keras",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/process-mining",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-machine-learning-with-python",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/object-localization-tensorflow",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/image-segmentation-python-unsupervised-learning",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/c-programming-language-foundations",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/compose-program-music-in-python-using-earsketch",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/art-science-ml",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-principles-with-edge-computing",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/an-introduction-to-logic-in-computer-science",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/tensorflow-for-beginners-basic-binary-image-classification-v2",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/digital-systems",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-trading-machine-learning-gcp",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/persistent-memory-technology-introduction-and-deployment",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/blockchain-business-models",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/predictive-modeling-machine-learning",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-insights-gcp-apply-ml",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/cyber-attack-countermeasures",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/biodata-processing",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/specializations/wharton-fintech",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/robotic-mapping-trajectory-generation",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/applied-data-science-for-data-analysts",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/what-is-datascience",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/red-teaming-llm-applications",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-fraud-detection-on-financial-transactions-with-machine-learnin-3bian",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/specializations/excel-vba-creative-problem-solving",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/image-compression-generation-vae",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/medical-diagnosis-support-vector-machines",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/siamese-network-triplet-loss-keras",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/data-augmentation-keras",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/image-noise-reduction-auto-encoders",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/ai-powered-chest-disease-detection-and-classification",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/chatgpt",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/efficiently-serving-llms",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-tfx-on-google-cloud-vertex-pipelines-wz6k2",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/generative-adversarial-networks-keras",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/deep-learning-for-real-estate-price-prediction",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/image-classification-transfer-learning-keras",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/specializations/spacecraft-dynamics-control",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/genai-for-business-analysis-fine-tuning-llms",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-projects",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/big-data-introduction",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/predicting-salaries-decision-trees",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/explore-insights-in-text-analysis-using-azure-text-analytics",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-learning-tensorflow-the-hello-world-of-machine-learning-063j7",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/building-interactive-user-interfaces-using-react-library",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/automl-computer-vision-microsoft-custom-vision",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/deploying-a-pytorch-computer-vision-model-api-on-heroku",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/rudi-hinds-ai-queries-with-openai-translate-natural-text-to-sql",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/malaria-parasite-detection-ensemble-learning-keras",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-deploy-a-bigquery-ml-customer-churn-classifier-to-vertex-ai-fo-3k2jw",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/llamafile-local-llm",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/build-automated-image-quality-inspection-using-amazon-lookout-for-vision",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-implementation-and-operations-in-aws",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/aws-autogluon-for-ml-classification",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/strategies-for-converting-and-retaining-customers-online",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/sas-visual-business-analytics",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/modeling-in-aws",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-predict-baby-weight-with-tensorflow-on-ai-platform-v53tf",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/exploratory-data-analysis-in-aws",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-introduction-to-computer-vision-with-tensorflow-7q5na",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/customising-models-tensorflow2",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/browser-based-models-tensorflow",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-google-cloud-speech-api-qwik-start-iv8ug",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-orchestrating-a-tfx-pipeline-with-airflow-pt8ny",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/specializations/computer-communications",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-predict-taxi-fare-with-a-bigquery-ml-forecasting-model-0ucjz",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-detect-labels-faces-and-landmarks-in-images-with-the-cloud-vis-tsdqu",
+        "score": 1
+    },
+    {
+        "site": "https://www.coursera.org/learn/analysis-of-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/cs-algorithms-theory-machines",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/approximation-algorithms-part-1",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/approximation-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/geometric-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/io-efficient-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/solving-algorithms-discrete-optimization",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/approximation-algorithms-part-2",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/statistical-mechanics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mind-machine-problem-solving-methods",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mathematics-for-computer-science",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/cs-fundamentals-2",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/graphs",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithms-data-collection-code",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/delivery-problem",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/cs-fundamentals-3",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-classification-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/pointers-arrays-recursion",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/uol-machine-learning-for-all",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/discrete-mathematics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-overview",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/algebra-ii",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-image-generation",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/polynomials-roots",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/computational-social-science-ucdavis",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-modeling",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/automated-reasoning-sat",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/matrix-algebra-determinants-and-eigenvectors",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/programming-c",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-trading-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/comparch",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/matrix-methods",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/algorithmic-bias-teach-out",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/cryptography-sscp",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mind-machine-computational-vision",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/math-for-ai-beginner-part-1-linear-algebra",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/calculus-through-data-and-modelling-applying-differentiation",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/simulation-algorithm-analysis-pointers",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/analysing-complexity",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/dsp1",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/computer-simulations",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-analysis-representation-selection-iteration",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/packet-switching-networks-algorithms",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-basics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-materials",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-analytics-engineering",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/illinois-tech-artificial-intelligence",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/vlsi-cad-layout",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/c-for-everyone",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/dmrol",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machinetranslation",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-ai-and-machine-learning-on-google-cloud-ptbr",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/code-free-data-science",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/blockchain-basics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/c-structured-programming",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/fundamentals-machine-learning-in-finance",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/big-data-ai-ethics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/spacecraft-dynamics-kinematics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-h2o",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/fundamentals-of-machine-learning-and-artificial-intelligence",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/wharton-ai-strategy-governance",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/classical-cryptosystems",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/dna-mutations",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/blockchain-scalability",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/symmetric-crypto",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/visual-perception-self-driving-cars",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/genomic-data",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/matrix-factorization",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/meaningful-predictive-modeling",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/probabilistic-graphical-models",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/artificial-intelligence-an-overview",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/enterprise-infrastructure-security",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/artificial-intelligence-and-legal-issues",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/recommeder-systems-capstone",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/cyber-security-fundamentals",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mind-machine-artificial-intelligence",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/mind-machine",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/object-detection-sagemaker",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-machine-learning-art-of-the-possible",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/business-analytics-executive-overview",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/technologies-and-platforms-for-artificial-intelligence",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/dsp2",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/deepfakes-keras",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/teach-impacts-technology-fundamentals",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/dsp3",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/blockchain-security",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/clinical-natural-language-processing",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/basic-recommender-systems",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/dsp4",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/economics-of-ai",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/modeling-time-series-and-sequential-data",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/modernrobotics-course3",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/computational-phenotyping",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-urban-governance",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/basic-cryptography-and-crypto-api",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/automated-reasoning-symbolic-model-checking",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-3-projects",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mcmc",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ethics-of-artificial-intelligence",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-applied-cryptography",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/programming-introduction",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/finetuning-large-language-models-project",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-business-professionals",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/blockchain102",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-business-future-of-work",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/system-validation-behavior",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/uci-blockchain",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/uciblockchain",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/quantitative-model-checking",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/motion-planning-self-driving-cars",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/illinois-tech-programming-and-application-foundations",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/computational-thinking-k12-educators-capstone",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/abstraction-problem-decomposition-functions",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/guided-tour-machine-learning-finance",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mind-machine-perspectives",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-large-language-models",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/vector-databases-from-embeddings-to-applications",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/wharton-ai-applications-people-management",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/crypto-hashing",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-applied",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-ethics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/blockchain-system",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/wharton-ai-application-insurtech-real-estate-technology",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/advanced-matlab-programming",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-machine-learning-in-production",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-results",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/collaborative-filtering",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/merkle-cryptocurrencies",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/fundamental-machine-learning-healthcare",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/state-estimation-localization-self-driving-cars",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/modernrobotics-course4",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/kotlin-for-java-developers",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/modernrobotics-course2",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-generative-ai-studio",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/computational-social-science-methods",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-basics-interacting-with-the-internet",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/bigideasinpython",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/data-literacy-what-is-it-and-why-does-it-matter",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/compare-models-with-experiments-in-azure-ml-studio",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-basics-automation-and-bots",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/teach-impacts-technology-relationships",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/an-introduction-to-cryptography",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/iot-enabled-farming",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/golang-getting-started",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ethereum-development-bootcamp",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-basics-problem-solving-with-code",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/the-power-of-object-oriented-programming",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/machine-learning-sas",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-in-healthcare-capstone",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mlops-fundamentals",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/creating-business-value-with-data-and-looker",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/python-basics-retrieving-online-data",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/golang-functions-methods",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-ai-and-machine-learning-on-google-cloud",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/recommendation-models-gcp",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/computational-thinking-c-programming",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-law",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/mathematical-foundations-cryptography",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/building-ai-powered-chatbots",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/introduction-to-generative-ai",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/artificial-intelligence-for-breast-cancer-detection",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/gcp-production-ml-systems",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/water-an-essential-resource",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/asymmetric-crypto",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-deep-learning-capstone",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/using-data-geographic-mapping-sas-va",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/building-multimodal-search-and-rag",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/aws-amazon-kendra-getting-started",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-empathy-ethics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/wharton-ai-applications-marketing-finance",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/managing-machine-learning-projects",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/sequence-models-tensorflow-gcp",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-generative-ai",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/self-driving-cars",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/illinois-tech-deep-learning",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/how-to-find-audience-interests-with-meta-business-suite",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/optimize-machine-learning-model-performance",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/open-source-llmops-solutions",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/answering-interesting-questions-with-data",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/debugging-hunting-and-squashing-bugs",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/deep-learning-computer-vision",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/modernrobotics",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/build-your-first-search-engine-using-aws-kendra",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/cluster-analysis-association-mining-and-model-evaluation",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/intro-self-driving-cars",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/intel-ai-fundamental",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/big-data-emerging-technologies",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/introduction-to-generative-ai---franais",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/google-golang",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ai-essentials",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/ml-pipelines-google-cloud",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/aws-amazon-braket-getting-started",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/human-factors-in-artificial-intelligence",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/predictive-modeling-model-fitting-regression-analysis",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-summarize-text-using-sql-and-llms-in-bigquery-ml-0bh73",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/getting-started-with-tensor-flow2",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/programming-with-scratch",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/image-classification-cnn-keras",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/build-machine-learning-image-classifier-with-python",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/recognizing-facials-objects-amazon-rekognition",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-getting-started-with-bigquery-machine-learning-bxgfi",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/projects/googlecloud-bracketology-with-google-machine-learning-5ytsd",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/specializations/emerging-technologies",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/learn/digital-marketing-2",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/msc-cyber-security-london",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/bachelor-of-science-computer-science-london",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/bachelor-of-science-computer-science-bits",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/master-of-applied-data-science-umich",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/msc-machine-learning-imperial",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/unt-online-bachelor-completion",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/imsa",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/msee-boulder",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/ms-computer-science-boulder",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/master-of-science-data-science-boulder",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/ms-management-illinois",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/imba",
+        "score": 0
+    },
+    {
+        "site": "https://www.coursera.org/degrees/me-engineering-management-boulder",
+        "score": 0
+    }
+]
